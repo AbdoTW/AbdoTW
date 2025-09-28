@@ -49,19 +49,23 @@ Machine Learning Engineer | Data Scientist
 
 <table>
   <tr>
-    <td width="50%"><b>Intelligent Retail Analytics Platform</b></td>
+    <td width="50%"><b>Surveillance System</b></td>
     <td width="50%"><b>Multilingual Vision Meets Words</b></td>
   </tr>
   <tr>
     <td>
       <img src="https://img.shields.io/badge/GitHub-Private_Repository-gray?style=flat-square&logo=github" />
       <img src="https://img.shields.io/badge/YOLOv11-FF5733?style=flat-square&logo=yolo&logoColor=white" />
+      <img src="https://img.shields.io/badge/BoostTrack++-00D4AA?style=flat-square&logo=opencv&logoColor=white" />
+      <img src="https://img.shields.io/badge/InsightFace-4285F4?style=flat-square&logo=python&logoColor=white" />
       <img src="https://img.shields.io/badge/FAISS-4B8BBE?style=flat-square&logo=meta&logoColor=white" />
     </td>
     <td>
       <img src="https://img.shields.io/badge/GitHub-Private_Repository-gray?style=flat-square&logo=github" />
       <img src="https://img.shields.io/badge/BLIP-FF6F00?style=flat-square&logo=huggingface&logoColor=white" />
+      <img src="https://img.shields.io/badge/GIT-F05032?style=flat-square&logo=git&logoColor=white" />
       <img src="https://img.shields.io/badge/ViT--GPT2-9146FF?style=flat-square&logo=openai&logoColor=white" />
+      <img src="https://img.shields.io/badge/LoRA-FF9500?style=flat-square&logo=huggingface&logoColor=white" />
     </td>
   </tr>
   <tr>
@@ -73,40 +77,47 @@ Machine Learning Engineer | Data Scientist
     </td>
   </tr>
   <tr>
+    <td width="50%"><b>Pizza Store Hygiene Monitoring System</b></td>
     <td width="50%"><b>Real-Time Behavioral Analysis System</b></td>
-    <td width="50%"><b>Arabic Sign Language (ArSL) Detector</b></td>
   </tr>
   <tr>
+    <td>
+      <a href="https://github.com/AbdoTW/pizza-scooper-violation-detector">
+        <img src="https://img.shields.io/badge/GitHub-View_Project-black?style=flat-square&logo=github" />
+      </a>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+      <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white" />
+      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+      <img src="https://img.shields.io/badge/YOLO-FF5733?style=flat-square&logo=yolo&logoColor=white" />
+      <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
+    </td>
     <td>
       <img src="https://img.shields.io/badge/GitHub-Private_Repository-gray?style=flat-square&logo=github" />
       <img src="https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=google&logoColor=white" />
       <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
+      <img src="https://img.shields.io/badge/PnP-FF4B4B?style=flat-square&logo=opencv&logoColor=white" />
     </td>
+  </tr>
+  <tr>
+    <td>
+      🍕 <b>Microservices Architecture</b> - Architected distributed real-time hygiene monitoring system using Python, FastAPI, RabbitMQ, and React, achieving 93%+ accuracy in violation detection. Built scalable YOLO-based pipeline with multi-object tracking, state-driven ROI logic, and WebSocket streaming, enabling fault-tolerant processing with sub-second latency updates and comprehensive analytics dashboard.
+    </td>
+    <td>
+      🎯 <b>High-Performance System</b> - Developed real-time behavioral monitoring system detecting 3D head orientation (pitch, yaw, roll) and gaze direction with 96% accuracy. Built low-latency pipeline using MediaPipe FaceMesh and PnP pose estimation, achieving <30ms per-frame inference and monitoring 20+ subjects simultaneously at >30 fps with zero failures.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%"><b>Arabic Sign Language (ArSL) Detector</b></td>
+    <td width="50%"><b>Smart Garbage Classification System</b></td>
+  </tr>
+  <tr>
     <td>
       <a href="https://github.com/AbdoTW/Arabic_Sign_Language">
         <img src="https://img.shields.io/badge/GitHub-View_Project-black?style=flat-square&logo=github" />
       </a>
       <img src="https://img.shields.io/badge/YOLOv10-FF5733?style=flat-square&logo=yolo&logoColor=white" />
       <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td>
-      🎯 <b>High-Performance System</b> - Developed real-time behavioral monitoring system detecting 3D head orientation (pitch, yaw, roll) and gaze direction with 96% accuracy. Built low-latency pipeline using MediaPipe FaceMesh and PnP pose estimation, achieving <30ms per-frame inference and monitoring 20+ subjects simultaneously at >30 fps with zero failures.
-    </td>
-    <td>
-      🌟 <b>Accessibility Innovation</b> - Architected a YOLOv10-based Arabic sign language detector with advanced augmentations, achieving 98% mAP. Built real-time OpenCV pipeline converting hand signs into live Arabic text via custom overlay, making communication more accessible for the Arabic deaf community.
-    </td>
-  </tr>
-  <tr>
-    <td width="50%"><b>Pizza Store Hygiene Monitoring System</b></td>
-    <td width="50%"><b>Smart Garbage Classification System</b></td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://img.shields.io/badge/GitHub-Private_Repository-gray?style=flat-square&logo=github" />
-      <img src="https://img.shields.io/badge/YOLOv12-FF5733?style=flat-square&logo=yolo&logoColor=white" />
-      <img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socket.io&logoColor=white" />
     </td>
     <td>
       <a href="https://github.com/AbdoTW/Garbage_Classification">
@@ -117,8 +128,8 @@ Machine Learning Engineer | Data Scientist
     </td>
   </tr>
   <tr>
-    <td>
-      🍕 <b>Freelance Solution</b> - Designed real-time computer vision system for hygiene violation detection in food service environments. Annotated 1,000+ images to train YOLOv12-Large model achieving 94% mAP, deployed via socket-based pipeline with ROI tracking and timestamped violation logging for comprehensive monitoring.
+     <td>
+      🌟 <b>Accessibility Innovation</b> - Architected a YOLOv10-based Arabic sign language detector with advanced augmentations, achieving 98% mAP. Built real-time OpenCV pipeline converting hand signs into live Arabic text via custom overlay, making communication more accessible for the Arabic deaf community.
     </td>
     <td>
       ♻️ <b>Environmental Impact</b> - Established and deployed high-accuracy waste classification model (95%) categorizing materials like plastic, glass, cardboard, paper, trash, and metal. Built comprehensive solution promoting sustainable waste management and environmental responsibility.
