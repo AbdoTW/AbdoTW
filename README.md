@@ -50,7 +50,7 @@ Machine Learning Engineer | Data Scientist
 <table>
   <tr>
     <td width="50%"><b>Surveillance System</b></td>
-    <td width="50%"><b>Multilingual Vision Meets Words</b></td>
+    <td width="50%"><b>Pizza Store Hygiene Monitoring System</b></td>
   </tr>
   <tr>
     <td>
@@ -60,27 +60,6 @@ Machine Learning Engineer | Data Scientist
       <img src="https://img.shields.io/badge/InsightFace-4285F4?style=flat-square&logo=python&logoColor=white" />
       <img src="https://img.shields.io/badge/FAISS-4B8BBE?style=flat-square&logo=meta&logoColor=white" />
     </td>
-    <td>
-      <img src="https://img.shields.io/badge/GitHub-Private_Repository-gray?style=flat-square&logo=github" />
-      <img src="https://img.shields.io/badge/BLIP-FF6F00?style=flat-square&logo=huggingface&logoColor=white" />
-      <img src="https://img.shields.io/badge/GIT-F05032?style=flat-square&logo=git&logoColor=white" />
-      <img src="https://img.shields.io/badge/ViT--GPT2-9146FF?style=flat-square&logo=openai&logoColor=white" />
-      <img src="https://img.shields.io/badge/LoRA-FF9500?style=flat-square&logo=huggingface&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td>
-      🏆 <b>1st Place Winner</b> - Built an advanced computer vision pipeline for retail environment monitoring, processing 120+ individuals with 96%+ recognition accuracy. Combined state-of-the-art models (YOLOv11, BoostTrack++, InsightFace) with optimized FAISS indexing for real-time analytics. Fine-tuned on 16GB custom dataset and achieved 86%+ HOTA tracking performance, outperforming 40+ teams in industry competition.
-    </td>
-    <td>
-      🎓 <b>Graduation Project</b> - State-of-the-art multilingual image captioning system (English, Arabic, Egyptian Arabic) using BLIP, GIT, and ViT-GPT2 with LoRA. Achieved 75.0%/30.0% BLEU scores on Flickr30k and created the first Egyptian Arabic captioning dataset with 8,000+ translated captions, outperforming benchmarks by 15%.
-    </td>
-  </tr>
-  <tr>
-    <td width="50%"><b>Pizza Store Hygiene Monitoring System</b></td>
-    <td width="50%"><b>Real-Time Behavioral Analysis System</b></td>
-  </tr>
-  <tr>
     <td>
       <a href="https://github.com/AbdoTW/pizza-scooper-violation-detector">
         <img src="https://img.shields.io/badge/GitHub-View_Project-black?style=flat-square&logo=github" />
@@ -92,19 +71,40 @@ Machine Learning Engineer | Data Scientist
       <img src="https://img.shields.io/badge/YOLO-FF5733?style=flat-square&logo=yolo&logoColor=white" />
       <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
     </td>
+  </tr>
+  <tr>
+    <td>
+      🏆 <b>1st Place Winner</b> - Built an advanced computer vision pipeline for retail environment monitoring, processing 120+ individuals with 96%+ recognition accuracy. Combined state-of-the-art models (YOLOv11, BoostTrack++, InsightFace) with optimized FAISS indexing for real-time analytics. Fine-tuned on 16GB custom dataset and achieved 86%+ HOTA tracking performance, outperforming 40+ teams in industry competition.
+    </td>
+    <td>
+      🍕 <b>Microservices Architecture</b> - Architected distributed real-time hygiene monitoring system using Python, FastAPI, RabbitMQ, and React, achieving 93%+ accuracy in violation detection. Built scalable YOLO-based pipeline with multi-object tracking, state-driven ROI logic, and WebSocket streaming, enabling fault-tolerant processing with sub-second latency updates and comprehensive analytics dashboard.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%"><b>Real-Time Behavioral Analysis System</b></td>
+    <td width="50%"><b>Multilingual Vision Meets Words</b></td>
+  </tr>
+  <tr>
     <td>
       <img src="https://img.shields.io/badge/GitHub-Private_Repository-gray?style=flat-square&logo=github" />
       <img src="https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=google&logoColor=white" />
       <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
       <img src="https://img.shields.io/badge/PnP-FF4B4B?style=flat-square&logo=opencv&logoColor=white" />
     </td>
+    <td>
+      <img src="https://img.shields.io/badge/GitHub-Private_Repository-gray?style=flat-square&logo=github" />
+      <img src="https://img.shields.io/badge/BLIP-FF6F00?style=flat-square&logo=huggingface&logoColor=white" />
+      <img src="https://img.shields.io/badge/GIT-F05032?style=flat-square&logo=huggingface&logoColor=white" />
+      <img src="https://img.shields.io/badge/ViT--GPT2-9146FF?style=flat-square&logo=openai&logoColor=white" />
+      <img src="https://img.shields.io/badge/LoRA-FF9500?style=flat-square&logo=huggingface&logoColor=white" />
+    </td>
   </tr>
   <tr>
     <td>
-      🍕 <b>Microservices Architecture</b> - Architected distributed real-time hygiene monitoring system using Python, FastAPI, RabbitMQ, and React, achieving 93%+ accuracy in violation detection. Built scalable YOLO-based pipeline with multi-object tracking, state-driven ROI logic, and WebSocket streaming, enabling fault-tolerant processing with sub-second latency updates and comprehensive analytics dashboard.
+      🎯 <b>AI Interview Cheating Module</b> - Developed real-time cheating detection system for AI interviewer detecting 3D head orientation (pitch, yaw, roll) and gaze direction with 99% accuracy. Built low-latency pipeline using MediaPipe FaceMesh, OpenCV, and PnP pose estimation with 3D-to-2D mapping, monitoring multiple subjects simultaneously with zero failures.
     </td>
     <td>
-      🎯 <b>High-Performance System</b> - Developed real-time behavioral monitoring system detecting 3D head orientation (pitch, yaw, roll) and gaze direction with 96% accuracy. Built low-latency pipeline using MediaPipe FaceMesh and PnP pose estimation, achieving <30ms per-frame inference and monitoring 20+ subjects simultaneously at >30 fps with zero failures.
+      🎓 <b>Graduation Project</b> - State-of-the-art (SOTA) multilingual image captioning system (English, Arabic, Egyptian Arabic) using BLIP, GIT, and ViT-GPT2 with LoRA. Achieved 75.0%/30.0% BLEU scores on Flickr30k and created the first Egyptian Arabic captioning dataset with 8,000+ translated captions, outperforming benchmarks by 15%.
     </td>
   </tr>
   <tr>
